@@ -1,0 +1,15 @@
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Debug\OX nowy.exe.config
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Debug\OX nowy.exe
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Debug\OX nowy.pdb
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX_nowy.Form1.resources
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX_nowy.Properties.Resources.resources
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.exe
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.pdb
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Debug\OX nowy.exe.manifest
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Debug\OX nowy.application
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.exe.manifest
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Debug\OX nowy.application

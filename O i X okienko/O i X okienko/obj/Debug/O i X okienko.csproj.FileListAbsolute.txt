@@ -1,0 +1,8 @@
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\bin\Debug\O i X okienko.exe.config
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\bin\Debug\O i X okienko.exe
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\bin\Debug\O i X okienko.pdb
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\obj\Debug\O i X okienko.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\obj\Debug\O i X okienko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\obj\Debug\O i X okienko.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\obj\Debug\O i X okienko.exe
+C:\Users\Marcin\source\repos\O i X okienko\O i X okienko\obj\Debug\O i X okienko.pdb

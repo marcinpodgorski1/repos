@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Release\OX nowy.exe.config
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Release\OX nowy.exe
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\bin\Release\OX nowy.pdb
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX_nowy.Form1.resources
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX_nowy.Properties.Resources.resources
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.exe
+C:\Users\Marcin\source\repos\OX nowy\OX nowy\obj\Release\OX nowy.pdb

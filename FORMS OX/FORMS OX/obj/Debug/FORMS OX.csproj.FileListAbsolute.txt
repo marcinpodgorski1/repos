@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\bin\Debug\FORMS OX.exe.config
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\bin\Debug\FORMS OX.exe
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\bin\Debug\FORMS OX.pdb
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS_OX.Form1.resources
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS_OX.Properties.Resources.resources
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.exe
+C:\Users\Marcin\source\repos\FORMS OX\FORMS OX\obj\Debug\FORMS OX.pdb
